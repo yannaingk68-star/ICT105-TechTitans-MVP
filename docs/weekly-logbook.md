@@ -12,10 +12,14 @@
 1. Our team members were unfamiliar with GitHub and repository management.
 2. It was difficult to decide which IT venture idea would be the most suitable for development.
 ### Evidence of Work
-- GitHub repository link: 
+- GitHub repository link:  https://github.com/yannaingk68-star/ICT105-TechTitans-MVP.git
 - Screenshot:
+  <img width="944" height="503" alt="image" src="https://github.com/user-attachments/assets/2c0d5e08-9e4b-4764-8d9a-2e9012888ae4" />
+
 - File created:
-- Commit link:
+<img width="941" height="496" alt="image" src="https://github.com/user-attachments/assets/d556d505-237d-4e63-88c7-6705149bd83e" />
+
+- Commit link:https://github.com/yannaingk68-star/ICT105-TechTitans-MVP/commits/main/
 ### Decision Made This Week
 The team decided to use GitHub as the central workspace and selected the most promising IT venture ideas for further evaluation in Lab 2.
 ### Plan for Next Week
