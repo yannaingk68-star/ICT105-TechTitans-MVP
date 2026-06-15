@@ -15,7 +15,12 @@ TechTitans
 | Yan Naing Kyaw | UX/UI Lead + Documentation Lead | Design interface and maintain documentation |
 | Shinn Thant Maung | UX/UI Lead + Documentation Lead | Design interface and maintain 
 ## Initial Problem Area
-Briefly describe the general problem area your team is interested in.
+### Idea-1
+Rangsit university students experience difficulties in challenging courses but cannot easily find tutors who match their subject, schedule, and budget. As a result, they rely on friends or social media, which is often inefficient and unreliable.
+### Idea-2
+Tourists visiting Thailand often have difficulty finding authentic local experiences and community-based activities. At the same time, local guides and small tourism businesses struggle to promote their services and reach potential customers, relying mainly on social media or word-of-mouth.
+### Idea-3
+Rangsit university students often face stress, anxiety, and burnout from academic pressure but lack accessible, stigma-free ways to seek emotional support. University counseling services have limited hours and long wait times, leaving many students without timely help.
 ## Target Users
 Describe the possible user group affected by the problem.
 ## Initial IT Venture Direction
