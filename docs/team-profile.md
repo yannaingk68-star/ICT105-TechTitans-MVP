@@ -15,7 +15,7 @@ TechTitans
 | Thae Su Win Thu | Basic HTML | Canva | Presentation |
 | Thin Thiri Naing | JavaScript beginner | Figma beginner | Team coordination |
 | Yan Naing Kyaw | Spreadsheet | UI layout | Interview questions |
-| Shinn Thant Maung |
+| Shinn Thant Maung | Document tool | Figma beginner | Presentation |
 ## Team Working Agreement
 1. Meeting schedule: Every Weekend
 2. Communication channel: Discord Private Channel
