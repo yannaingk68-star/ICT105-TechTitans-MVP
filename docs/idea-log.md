@@ -6,8 +6,9 @@ Rangsit university students experience difficulties in challenging courses but c
 - Rangsit university students who seek academic help.
 - Rangsit university students who want to become tutors and earn extra money.
 ### Current Alternative
-- Asking friends or seniors for help
-- 
+- Asking friends or seniors for help.
+- Searching for tutors through Facebook groups, Line groups, or word-of-mouth.
+- Using expensive private tutoring services.
 ### Proposed IT Solution
 What kind of app, system, platform, or digital tool could solve it?
 ### Possible Technology
