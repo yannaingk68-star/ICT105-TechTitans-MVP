@@ -1,11 +1,13 @@
 # Initial IT Venture Idea Log
 ## Idea 1: PeerTutor – Student-to-Student Tutoring Marketplace
 ### Problem Area
-What problem does this idea address?
+Rangsit university students experience difficulties in challenging courses but cannot easily find tutors who match their subject, schedule, and budget. As a result, they rely on friends or social media, which is often inefficient and unreliable.
 ### Target Users
-Who experiences this problem?
+- Rangsit university students who seek academic help.
+- Rangsit university students who want to become tutors and earn extra money.
 ### Current Alternative
-How do users currently solve this problem?
+- Asking friends or seniors for help
+- 
 ### Proposed IT Solution
 What kind of app, system, platform, or digital tool could solve it?
 ### Possible Technology
