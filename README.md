@@ -10,10 +10,10 @@ TechTitans
 ## Team Members and Roles
 | Name | Role | Responsibility |
 |---|---|---|
-| Thae Su Win Thu | Product Lead | Define problem, target users, and value proposition |
-| Thin Thiri Naing | Technical Lead | Manage repository and prototype feasibility |
-| Yan Naing Kyaw | UX/UI Lead + Documentation Lead | Design interface and maintain documentation |
-| Shinn Thant Maung | UX/UI Lead + Documentation Lead | Design interface and maintain 
+| Thin Thiri Naing | Product Lead | Define problem, target users, value proposition, and project direction |
+| Shinn Thant Maung | Technical Lead | Manage repository,  prototype development, and technical feasibility |
+| Thae Su Win Thu | UX/UI Lead | Design wireframes, user flow, and interface screens |
+| Yan Naing Kyaw | Validation Lead + Documentation Lead | Conduct surveys/interviews and maintain project documentation | 
 ## Initial Problem Area
 ### Idea-1
 Rangsit university students experience difficulties in challenging courses but cannot easily find tutors who match their subject, schedule, and budget. As a result, they rely on friends or social media, which is often inefficient and unreliable.
