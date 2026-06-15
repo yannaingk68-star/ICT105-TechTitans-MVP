@@ -11,7 +11,7 @@ TechTitans
 | Name | Role | Responsibility |
 |---|---|---|
 | Thin Thiri Naing | Product Lead | Define problem, target users, value proposition, and project direction |
-| Shinn Thant Maung | Technical Lead | Manage repository,  prototype development, and technical feasibility |
+| Shinn Thant Maung | Technical Lead | Manage repository, prototype development, and technical feasibility |
 | Thae Su Win Thu | UX/UI Lead | Design wireframes, user flow, and interface screens |
 | Yan Naing Kyaw | Validation Lead + Documentation Lead | Conduct surveys/interviews and maintain project documentation | 
 ## Initial Problem Area
@@ -22,18 +22,28 @@ Tourists visiting Thailand often have difficulty finding authentic local experie
 ### Idea-3
 Rangsit university students often face stress, anxiety, and burnout from academic pressure but lack accessible, stigma-free ways to seek emotional support. University counseling services have limited hours and long wait times, leaving many students without timely help.
 ## Target Users
-Describe the possible user group affected by the problem.
+### Idea-1
+- Rangsit university students who seek academic help.
+- Rangsit university students who want to become tutors and earn extra money.
+### Idea-2
+- Domestic and international tourists looking for authentic local experiences.
+- Local guides, artisans, and community tourism businesses that want to promote and sell their activities.
+### Idea-3
+- Rangsit university students experiencing academic stress or emotional difficulties.
+- Student volunteers or trained peer listeners who want to support their peers.
 ## Initial IT Venture Direction
-Briefly describe the possible IT solution direction.
+### Idea-1
+Develop a web-based marketplace platform that connects students who need academic assistance with student tutors. The platform will provide tutor discovery, booking, communication, and review features to make finding affordable and reliable tutoring easier within the university community.
+### Idea-2
+Develop a digital marketplace that helps tourists discover and book authentic local experiences while enabling local guides and small businesses to promote their services. The platform will focus on activity listings, booking management, location-based search, and customer reviews.
+### Idea-3
+Develop a web-based mental wellness platform that provides students with accessible emotional support through anonymous mood tracking, self-help resources, and peer support services. The platform will encourage early intervention and create a safe space for students to seek help when needed.
 ## Technology Possibility
 Possible technologies:
 - Web application
 - Mobile application
 - Dashboard
-- AI-assisted feature
 - Cloud-based system
-- IoT-supported system
-- Cybersecurity tool
 - SaaS platform
 - Marketplace or digital platform
 ## Repository Structure
@@ -47,8 +57,13 @@ Possible technologies:
 ## Weekly Progress Log
 | Lab | Main Activity | Output | Status |
 |---|---|---|---|
-| Lab 1 | Lab setup and idea log | Repository, team profile, initial idea log | In progress |
+| Lab 1 | Lab setup and idea log | Repository, team profile, initial idea log | Completed |
 ## Current Status
-Write 3-5 sentences about what the team completed in Lab 1.
+1. Formed the project team and assigned roles and responsibilities.
+2. Created the GitHub repository and required folder structure.
+3. Prepared the README file, team profile, and initial IT venture idea log.
 ## Next Step
-Write what the team will do in Lab 2.
+1. Conduct opportunity scanning and identify real user problems.
+2. Evaluate the three proposed IT venture ideas.
+3. Select one venture idea for further validation and development.
+4. Begin collecting evidence through surveys, interviews, or market research.
