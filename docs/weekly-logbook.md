@@ -19,7 +19,7 @@
 - File created:
 <img width="941" height="496" alt="image" src="https://github.com/user-attachments/assets/d556d505-237d-4e63-88c7-6705149bd83e" />
 
-- Commit link:https://github.com/yannaingk68-star/ICT105-TechTitans-MVP/commits/main/
+- Commit link: https://github.com/yannaingk68-star/ICT105-TechTitans-MVP/commits/main/
 ### Decision Made This Week
 The team decided to use GitHub as the central workspace and selected the most promising IT venture ideas for further evaluation in Lab 2.
 ### Plan for Next Week
@@ -44,11 +44,12 @@ We decided not to select MindSpace – Student Mental Wellness Platform as our s
 2. The NUF scoring method helps teams compare ideas objectively instead of choosing based only on personal preference. 
 3. Considering technical feasibility early in the planning stage helps ensure that a project can be completed within the semester. 
 ### Evidence of Work
-- Opportunity scan file:
-- NUF scoring file:
-- Selected opportunity file:
+- Opportunity scan file: https://github.com/yannaingk68-star/ICT105-TechTitans-MVP/blob/main/docs/opportunity-scan.md
+- NUF scoring file: https://docs.google.com/spreadsheets/d/1fyp2AzM6Skd3PzWwbtKtwwQOMJKI6c5FQz8kiND5d6g/edit?usp=sharing
+- Selected opportunity file: https://github.com/yannaingk68-star/ICT105-TechTitans-MVP/blob/main/docs/selected-opportunity.md
 - GitHub issue screenshot:
-- Commit link:
+  <img width="941" height="502" alt="Screenshot 2026-06-17 103131" src="https://github.com/user-attachments/assets/b6ce7ba3-1640-4540-b354-9a064c31f237" />
+- Commit link: https://github.com/yannaingk68-star/ICT105-TechTitans-MVP/commits/main/
 ### Plan for Lab 03
 In Lab 03, our team will conduct customer problem discovery by interviewing university students who have searched for tutors or provided tutoring services. We will collect information about their current methods, challenges, and expectations to validate whether PeerTutor solves a real problem and identify the most important features for the MVP. 
 
