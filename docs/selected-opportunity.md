@@ -1,6 +1,6 @@
 # Selected Semester Project Opportunity
 ## Selected Project Title
-# PeerTutor – Student-to-Student Tutoring Marketplace
+PeerTutor – Student-to-Student Tutoring Marketplace
 ## Target User
 The primary target users are university students who need academic assistance and students who want to offer tutoring services. Many students look for affordable tutors before quizzes, midterm exams, and final exams, while others have the knowledge and skills to earn extra income by helping their peers.
 ## Problem Statement
